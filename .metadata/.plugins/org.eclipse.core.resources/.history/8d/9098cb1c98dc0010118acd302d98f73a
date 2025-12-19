@@ -1,0 +1,10 @@
+package com.info.bootjpa.service;
+
+import org.springframework.stereotype.Service;
+
+import com.info.bootjpa.repo.ProductRepo;
+
+@Service
+public class ProductService {
+  private ProductRepo productRepo;
+}

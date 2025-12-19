@@ -1,0 +1,5 @@
+package com.info.bootjpa.service;
+
+public class ProductService {
+
+}
