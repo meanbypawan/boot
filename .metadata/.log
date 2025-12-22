@@ -2327,3 +2327,1443 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-20 10:19:45.652
 !MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:37:29.829
+!MESSAGE 09:37:29.828 [pool-3-thread-80] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/bootweb/src/main/java/com/info/bootweb/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:45.423
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:45.424
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:45.424
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:45.425
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:46.376
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:46.377
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:46.377
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:46.377
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:47.047
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:47.047
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:47.048
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:42:47.048
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:43:04.120
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:43:04.121
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:43:04.121
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:43:04.121
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:04.757
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:04.758
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:04.758
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:04.759
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:06.383
+!MESSAGE 09:53:06.383 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.135
+!MESSAGE 09:53:09.134 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 24
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.135
+!MESSAGE 09:53:09.134 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.135
+!MESSAGE 09:53:09.134 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.135
+!MESSAGE 09:53:09.134 [pool-5-thread-50] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.135
+!MESSAGE 09:53:09.135 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.141
+!MESSAGE 09:53:09.141 [pool-5-thread-50] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.142
+!MESSAGE 09:53:09.141 [pool-5-thread-50] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.447
+!MESSAGE 09:53:09.447 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.538
+!MESSAGE 09:53:09.538 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 27
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:09.538
+!MESSAGE 09:53:09.538 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:14.192
+!MESSAGE 09:53:09.637 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:17.568
+!MESSAGE 09:53:17.567 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java done in 6ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:17.569
+!MESSAGE 09:53:17.568 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:23.898
+!MESSAGE 09:53:23.898 [pool-3-thread-101] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:46.028
+!MESSAGE 09:53:46.028 [pool-3-thread-101] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:50.207
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:50.207
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:50.207
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:53:50.208
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:54.190
+!MESSAGE 09:53:54.190 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:54.190
+!MESSAGE 09:53:54.190 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:54.190
+!MESSAGE 09:53:54.190 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:53:54.191
+!MESSAGE 09:53:54.191 [pool-3-thread-101] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/entity/Product.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:04.867
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:04.867
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:04.868
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:04.868
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:38.117
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:38.118
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:38.118
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:38.118
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:55.029
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:55.030
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:55.030
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:54:55.030
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:54:55.604
+!MESSAGE 09:54:55.604 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/repo/ProductRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:54:58.896
+!MESSAGE 09:54:58.896 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/repo/ProductRepository.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:54:58.896
+!MESSAGE 09:54:58.896 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/repo/ProductRepository.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:00.240
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:00.240
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:00.240
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:00.240
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:18.283
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:18.283
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:18.283
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:18.283
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:18.639
+!MESSAGE 09:55:18.639 [pool-3-thread-101] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/repo/ProductRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:21.486
+!MESSAGE 09:55:21.485 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:21.563
+!MESSAGE 09:55:21.563 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:21.564
+!MESSAGE 09:55:21.563 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:21.654
+!MESSAGE 09:55:21.654 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:24.524
+!MESSAGE 09:55:24.524 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:26.614
+!MESSAGE 09:55:26.614 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:27.162
+!MESSAGE 09:55:27.162 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:27.665
+!MESSAGE 09:55:27.664 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:27.665
+!MESSAGE 09:55:27.664 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:27.905
+!MESSAGE 09:55:27.904 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:30.301
+!MESSAGE 09:55:30.297 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:33.319
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:33.319
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:33.319
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:55:33.319
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:43.489
+!MESSAGE 09:55:43.488 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:43.490
+!MESSAGE 09:55:43.488 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:48.001
+!MESSAGE 09:55:48.001 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:52.941
+!MESSAGE 09:55:52.941 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:55:59.158
+!MESSAGE 09:55:59.158 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:56:03.144
+!MESSAGE 09:56:03.143 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:56:11.675
+!MESSAGE 09:56:11.675 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:13.122
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:13.123
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:13.123
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:13.123
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:56:13.720
+!MESSAGE 09:56:13.719 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:18.631
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:18.631
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:18.631
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:18.632
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:46.887
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:46.887
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:46.887
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:56:46.887
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:56:51.819
+!MESSAGE 09:56:21.744 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:56:51.819
+!MESSAGE 09:56:21.744 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:02.271
+!MESSAGE 09:57:02.271 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:02.271
+!MESSAGE 09:57:02.271 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:02.319
+!MESSAGE 09:57:02.318 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 248
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:02.915
+!MESSAGE 09:57:02.914 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:06.876
+!MESSAGE 09:57:06.875 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:13.358
+!MESSAGE 09:57:13.357 [pool-3-thread-103] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:13.358
+!MESSAGE 09:57:13.357 [pool-3-thread-103] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:57:17.115
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:57:17.116
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:57:17.116
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:57:17.116
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:20.220
+!MESSAGE 09:57:20.220 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java done in 7ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:20.220
+!MESSAGE 09:57:20.220 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:32.616
+!MESSAGE 09:57:32.616 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:32.617
+!MESSAGE 09:57:32.617 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:36.953
+!MESSAGE 09:57:36.952 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:36.953
+!MESSAGE 09:57:36.952 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:41.108
+!MESSAGE 09:57:41.108 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:41.595
+!MESSAGE 09:57:41.595 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:57:41.596
+!MESSAGE 09:57:41.595 [pool-5-thread-52] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.068
+!MESSAGE 09:58:50.067 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.068
+!MESSAGE 09:58:50.067 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.069
+!MESSAGE 09:58:50.067 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.070
+!MESSAGE 09:58:50.069 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.070
+!MESSAGE 09:58:50.069 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.071
+!MESSAGE 09:58:50.070 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.071
+!MESSAGE 09:58:50.070 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.071
+!MESSAGE 09:58:50.070 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.071
+!MESSAGE 09:58:50.070 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.144
+!MESSAGE 09:58:50.144 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 357
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.145
+!MESSAGE 09:58:50.144 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:50.145
+!MESSAGE 09:58:50.144 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:51.701
+!MESSAGE 09:58:51.700 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 362
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:56.515
+!MESSAGE 09:58:56.514 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:56.515
+!MESSAGE 09:58:56.514 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:56.515
+!MESSAGE 09:58:56.514 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:56.734
+!MESSAGE 09:58:56.734 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 374
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:58:56.734
+!MESSAGE 09:58:56.734 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:02.249
+!MESSAGE 09:59:02.248 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:02.249
+!MESSAGE 09:59:02.248 [pool-3-thread-102] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:03.509
+!MESSAGE 09:59:03.509 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:20.295
+!MESSAGE 09:59:10.171 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 406
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:20.295
+!MESSAGE 09:59:10.171 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:21.320
+!MESSAGE 09:59:21.319 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:21.321
+!MESSAGE 09:59:21.321 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:21.807
+!MESSAGE 09:59:21.806 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:26.888
+!MESSAGE 09:59:26.888 [pool-5-thread-52] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:26.889
+!MESSAGE 09:59:26.888 [pool-5-thread-52] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:28.705
+!MESSAGE 09:59:28.705 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:29.238
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:29.238
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:29.238
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:29.239
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:40.173
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:40.174
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:40.174
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 09:59:40.174
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:57.120
+!MESSAGE 09:59:57.120 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:58.720
+!MESSAGE 09:59:58.720 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 09:59:58.720
+!MESSAGE 09:59:58.720 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:07.402
+!MESSAGE 10:00:07.402 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.451
+!MESSAGE 10:00:08.450 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.451
+!MESSAGE 10:00:08.450 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.451
+!MESSAGE 10:00:08.451 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.455
+!MESSAGE 10:00:08.453 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.455
+!MESSAGE 10:00:08.453 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:08.455
+!MESSAGE 10:00:08.454 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:17.469
+!MESSAGE 10:00:17.469 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:00:23.044
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:00:23.044
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:00:23.044
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:00:23.044
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:46.643
+!MESSAGE 10:00:46.642 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:53.217
+!MESSAGE 10:00:53.216 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.731
+!MESSAGE 10:00:54.730 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.731
+!MESSAGE 10:00:54.730 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.731
+!MESSAGE 10:00:54.731 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.731
+!MESSAGE 10:00:54.731 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.732
+!MESSAGE 10:00:54.731 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.733
+!MESSAGE 10:00:54.732 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:54.801
+!MESSAGE 10:00:54.800 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 540
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:56.040
+!MESSAGE 10:00:56.039 [pool-5-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:56.040
+!MESSAGE 10:00:56.039 [pool-5-thread-53] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:58.358
+!MESSAGE 10:00:58.358 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:00:58.358
+!MESSAGE 10:00:58.358 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:06.600
+!MESSAGE 10:01:06.599 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:06.600
+!MESSAGE 10:01:06.599 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:22.967
+!MESSAGE 10:01:22.965 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:24.576
+!MESSAGE 10:01:24.575 [pool-3-thread-100] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:26.380
+!MESSAGE 10:01:26.380 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:26.380
+!MESSAGE 10:01:26.380 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:32.665
+!MESSAGE 10:01:32.665 [pool-3-thread-105] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:01:32.665
+!MESSAGE 10:01:32.665 [pool-3-thread-105] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:01:35.733
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:01:35.734
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:01:35.734
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:01:35.734
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:31.649
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:31.649
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:31.650
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:31.650
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:44.264
+!MESSAGE 10:02:44.263 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:44.265
+!MESSAGE 10:02:44.263 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:48.444
+!MESSAGE 10:02:48.444 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:48.445
+!MESSAGE 10:02:48.444 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:48.900
+!MESSAGE 10:02:48.899 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:48.900
+!MESSAGE 10:02:48.899 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/service/ProductService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:02:49.749
+!MESSAGE 10:02:49.749 [pool-3-thread-104] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:52.252
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:52.252
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:52.253
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:02:52.253
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:23.041
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:23.042
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:23.042
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:23.042
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:23.125
+!MESSAGE 10:03:23.125 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:23.126
+!MESSAGE 10:03:23.125 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:26.587
+!MESSAGE 10:03:26.587 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:26.587
+!MESSAGE 10:03:26.587 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:48.785
+!MESSAGE 10:03:48.784 [pool-5-thread-54] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:48.786
+!MESSAGE 10:03:48.784 [pool-5-thread-54] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:54.227
+!MESSAGE 10:03:54.227 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:03:54.227
+!MESSAGE 10:03:54.227 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:54.689
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:54.689
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:54.690
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:03:54.690
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:12.392
+!MESSAGE 10:04:12.391 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:14.200
+!MESSAGE 10:04:14.200 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:14.200
+!MESSAGE 10:04:14.200 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:15.398
+!MESSAGE 10:04:15.397 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 50
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:16.394
+!MESSAGE 10:04:16.394 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:16.395
+!MESSAGE 10:04:16.394 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:22.726
+!MESSAGE 10:04:22.726 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:22.726
+!MESSAGE 10:04:22.726 [pool-3-thread-104] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 0ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:04:24.021
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:04:24.021
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:04:24.021
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:04:24.022
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:24.591
+!MESSAGE 10:04:24.591 [pool-3-thread-105] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:24.591
+!MESSAGE 10:04:24.591 [pool-3-thread-105] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.033
+!MESSAGE 10:04:28.033 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.085
+!MESSAGE 10:04:28.085 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 98
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.085
+!MESSAGE 10:04:28.085 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.085
+!MESSAGE 10:04:28.085 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.155
+!MESSAGE 10:04:28.154 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 99
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.155
+!MESSAGE 10:04:28.154 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:28.155
+!MESSAGE 10:04:28.154 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:34.312
+!MESSAGE 10:04:34.311 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 113
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:04:34.312
+!MESSAGE 10:04:34.311 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:05:35.129
+!MESSAGE 10:05:35.129 [pool-3-thread-104] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:05:47.917
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:05:47.917
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:05:47.917
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:05:47.918
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:06:06.554
+!MESSAGE 10:06:06.554 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 198
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:42.391
+!MESSAGE 10:11:42.390 [pool-5-thread-56] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:11:51.380
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:11:51.381
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:11:51.381
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:11:51.381
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.473
+!MESSAGE 10:11:59.473 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.474
+!MESSAGE 10:11:59.473 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.474
+!MESSAGE 10:11:59.473 [pool-3-thread-108] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 2 completions in 8ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.772
+!MESSAGE 10:11:59.771 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.772
+!MESSAGE 10:11:59.771 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.772
+!MESSAGE 10:11:59.772 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.773
+!MESSAGE 10:11:59.773 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.773
+!MESSAGE 10:11:59.773 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.774
+!MESSAGE 10:11:59.774 [pool-3-thread-107] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:11:59.774
+!MESSAGE 10:11:59.774 [pool-3-thread-107] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:31.102
+!MESSAGE 10:12:31.102 [pool-3-thread-108] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:31.102
+!MESSAGE 10:12:31.102 [pool-3-thread-108] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:12:42.026
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:12:42.026
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:12:42.026
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:12:42.026
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.823
+!MESSAGE 10:12:47.823 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.823
+!MESSAGE 10:12:47.823 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.823
+!MESSAGE 10:12:47.823 [pool-3-thread-109] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.824
+!MESSAGE 10:12:47.823 [pool-3-thread-109] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.824
+!MESSAGE 10:12:47.823 [pool-3-thread-109] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:47.826
+!MESSAGE 10:12:47.826 [pool-3-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:52.597
+!MESSAGE 10:12:52.597 [pool-3-thread-108] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:12:52.597
+!MESSAGE 10:12:52.597 [pool-3-thread-108] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:13:02.338
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:13:02.339
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:13:02.339
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:13:02.339
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:13:02.895
+!MESSAGE 10:13:02.895 [pool-5-thread-56] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'crudapi'
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:13:02.980
+!MESSAGE 10:13:02.980 [pool-5-thread-56] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:15:21.446
+!MESSAGE 10:15:21.445 [pool-3-thread-111] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 703 completions in 26ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:15:21.704
+!MESSAGE 10:15:21.704 [pool-3-thread-111] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:15:25.311
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:15:25.312
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:15:25.312
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:15:25.312
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:17:18.040
+!MESSAGE 10:17:18.039 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:17:18.628
+!MESSAGE 10:17:18.628 [pool-3-thread-113] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:17:55.572
+!MESSAGE 10:17:19.016 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:17:55.572
+!MESSAGE 10:17:19.016 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:06.085
+!MESSAGE 10:19:06.084 [pool-5-thread-59] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:06.085
+!MESSAGE 10:19:06.084 [pool-5-thread-59] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:18.045
+!MESSAGE 10:19:18.045 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:18.433
+!MESSAGE 10:19:18.432 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 437
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:19.554
+!MESSAGE 10:19:19.554 [pool-3-thread-113] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:23.108
+!MESSAGE 10:19:23.107 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:23.108
+!MESSAGE 10:19:23.108 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:23.108
+!MESSAGE 10:19:23.108 [pool-3-thread-115] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:24.086
+!MESSAGE 10:19:24.085 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:24.086
+!MESSAGE 10:19:24.086 [pool-3-thread-115] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 9ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:33.858
+!MESSAGE 10:19:33.858 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:33.858
+!MESSAGE 10:19:33.858 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:35.170
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:35.170
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:35.170
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:35.171
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:44.688
+!MESSAGE 10:19:44.687 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:44.688
+!MESSAGE 10:19:44.688 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:46.621
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:46.622
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:46.622
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:19:46.622
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.224
+!MESSAGE 10:19:54.249 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.224
+!MESSAGE he.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.224
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.225
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.227
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.228
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.228
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.228
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:55.229
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:58.811
+!MESSAGE 10:19:58.810 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:58.812
+!MESSAGE 10:19:58.811 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 492
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:58.812
+!MESSAGE 10:19:58.811 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:58.813
+!MESSAGE 10:19:58.813 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:19:59.204
+!MESSAGE 10:19:59.204 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:20:02.864
+!MESSAGE 10:20:02.864 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 500
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:12.950
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:12.951
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:12.951
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:12.951
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:18.725
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:18.725
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:18.725
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:20:18.725
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:20:45.043
+!MESSAGE 10:20:45.043 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:06.951
+!MESSAGE 10:21:06.951 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:07.453
+!MESSAGE 10:21:07.453 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:07.454
+!MESSAGE 10:21:07.453 [pool-3-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:11.711
+!MESSAGE 10:21:11.710 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:13.440
+!MESSAGE 10:21:13.439 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:21:30.880
+!MESSAGE 10:21:30.880 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:21:58.928
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:21:58.929
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:21:58.929
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:21:58.929
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:02.044
+!MESSAGE 10:21:54.759 [pool-3-thread-116] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:13.681
+!MESSAGE 10:22:13.681 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:13.681
+!MESSAGE 10:22:13.681 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:25.923
+!MESSAGE 10:22:25.922 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:29.295
+!MESSAGE 10:22:25.924 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:29.296
+!MESSAGE 10:22:25.924 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:29.296
+!MESSAGE 10:22:25.924 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:30.412
+!MESSAGE 10:22:30.411 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:31.784
+!MESSAGE 10:22:31.784 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:22:31.785
+!MESSAGE 10:22:31.784 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:22:37.004
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:22:37.004
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:22:37.004
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:22:37.004
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:25.612
+!MESSAGE 10:23:25.612 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:25.615
+!MESSAGE 10:23:25.614 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:32.858
+!MESSAGE 10:23:32.858 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:32.858
+!MESSAGE 10:23:32.858 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:23:38.657
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:23:38.658
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:23:38.658
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:23:38.659
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:50.024
+!MESSAGE 10:23:50.023 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:50.178
+!MESSAGE 10:23:50.177 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 736
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:23:59.961
+!MESSAGE 10:23:59.961 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:02.520
+!MESSAGE 10:24:02.519 [pool-3-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:05.578
+!MESSAGE 10:24:05.577 [pool-3-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:29.113
+!MESSAGE 10:24:29.113 [pool-3-thread-115] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:33.099
+!MESSAGE 10:24:33.099 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 812
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:41.945
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:41.946
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:41.946
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:41.953
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:54.688
+!MESSAGE 10:24:54.687 [pool-3-thread-116] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:24:54.688
+!MESSAGE 10:24:54.687 [pool-3-thread-116] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:59.958
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:59.958
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:59.958
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:24:59.958
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:26:36.168
+!MESSAGE 10:26:36.168 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:26:36.168
+!MESSAGE 10:26:36.168 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:26:44.744
+!MESSAGE 10:26:44.743 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:26:44.746
+!MESSAGE 10:26:44.746 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:26:49.354
+!MESSAGE 10:26:49.353 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:05.642
+!MESSAGE 10:27:05.642 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:07.143
+!MESSAGE 10:27:07.143 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:08.141
+!MESSAGE 10:27:08.140 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:19.545
+!MESSAGE 10:27:19.544 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:19.545
+!MESSAGE 10:27:19.544 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:20.034
+!MESSAGE 10:27:20.034 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:32.417
+!MESSAGE 10:27:32.417 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:32.418
+!MESSAGE 10:27:32.417 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:37.524
+!MESSAGE 10:27:37.523 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:37.524
+!MESSAGE 10:27:37.524 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:37.964
+!MESSAGE 10:27:37.964 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:40.996
+!MESSAGE 10:27:40.996 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:47.261
+!MESSAGE 10:27:47.260 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:47.261
+!MESSAGE 10:27:47.261 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:51.707
+!MESSAGE 10:27:51.707 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:27:51.713
+!MESSAGE 10:27:51.707 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:29.586
+!MESSAGE 10:28:29.585 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:30.617
+!MESSAGE 10:28:30.617 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:30.619
+!MESSAGE 10:28:30.619 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:35.310
+!MESSAGE 10:28:35.309 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:35.310
+!MESSAGE 10:28:35.309 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:38.523
+!MESSAGE 10:28:38.522 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:38.523
+!MESSAGE 10:28:38.523 [pool-5-thread-64] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:38.525
+!MESSAGE 10:28:38.523 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:46.125
+!MESSAGE 10:28:46.125 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:51.895
+!MESSAGE 10:28:51.895 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:51.896
+!MESSAGE 10:28:51.895 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:28:55.603
+!MESSAGE 10:28:55.603 [pool-3-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:28:57.633
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:28:57.634
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:28:57.634
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:28:57.634
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:29:02.988
+!MESSAGE 10:29:02.988 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:29:02.988
+!MESSAGE 10:29:02.988 [pool-3-thread-118] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:15.337
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:15.338
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:15.338
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:15.339
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:32.039
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:32.039
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:32.039
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:29:32.039
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:30.684
+!MESSAGE 10:31:30.682 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:30.690
+!MESSAGE 10:31:30.682 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:40.067
+!MESSAGE 10:31:40.067 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:40.068
+!MESSAGE 10:31:40.067 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:41.151
+!MESSAGE 10:31:41.151 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:31:51.418
+!MESSAGE 10:31:51.417 [pool-3-thread-122] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-22 10:32:17.870
+!MESSAGE 10:32:17.870 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///home/pawansahu/Documents/Itep_boot/crudapi/src/main/java/com/info/crudapi/controller/ProductController.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:32:40.185
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:32:40.185
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:32:40.185
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-22 10:32:40.185
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
