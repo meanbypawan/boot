@@ -1,6 +1,5 @@
 package com.info.ecommerce.entity;
 
-import java.util.List;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -23,10 +22,9 @@ public class Product {
    
    @ManyToOne
    @JoinColumn(name="category_id")
+ 
    private Category category;
    
-   @OneToMany(mappedBy = "product")
-   private List<CartItems> cartItems;
 
    public int getId() {
 	return id;
@@ -68,14 +66,6 @@ public class Product {
 	this.category = category;
    }
 
-   public List<CartItems> getCartItems() {
-	return cartItems;
-   }
-
-   public void setCartItems(List<CartItems> cartItems) {
-	this.cartItems = cartItems;
-   }
-   
    
 }
 
