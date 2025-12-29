@@ -1,5 +1,0 @@
-package com.info.bootjpa.repo;
-
-public interface ProductRepo {
-
-}
